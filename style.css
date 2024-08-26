@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #EBECEE;
-    --branco: #99ebe6eb;
+    --branco: rgba(153, 217, 235, 0.922);
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
 }
 /**/
